@@ -1,0 +1,43 @@
+{
+    "file_name": "15",
+    "topics": [
+        "Parking",
+        "Receipt",
+        "City of Palo Alto",
+        "Expiration Date",
+        "Payment"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "header": "PLACE FACE UP ON DASH",
+        "city": "CITY OF PALO ALTO",
+        "validity": "NOT VALID FOR ONSTREET PARKING",
+        "expiration": {
+            "date_time": "11:59 PM AUG 19, 2024"
+        },
+        "purchase": {
+            "date_time": "01:34pm Aug 19, 2024"
+        },
+        "amounts": {
+            "total_due": "$15.00",
+            "total_paid": "$15.00"
+        },
+        "ticket": {
+            "number": "00005883"
+        },
+        "serial_number": "520117260957",
+        "setting": "Permit Machines",
+        "machine_name": "Civic Center",
+        "payment_info": {
+            "card_number": "****-1224",
+            "card_type": "Visa"
+        },
+        "instructions": {
+            "display": "DISPLAY FACE UP ON DASH",
+            "expiration": "PERMIT EXPIRES AT MIDNIGHT"
+        }
+    },
+    "file_id": "bce6e396-796c-486d-939e-0748e406ccc8",
+    "processed_at": "2025-11-26T13:34:02Z",
+    "source_path": "/app/source_folder/15.png"
+}

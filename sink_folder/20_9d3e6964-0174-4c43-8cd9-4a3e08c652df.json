@@ -1,0 +1,60 @@
+{
+    "file_name": "20",
+    "topics": [
+        "Shop",
+        "Receipt",
+        "Clothing",
+        "Tax",
+        "Payment"
+    ],
+    "languages": "English",
+    "ocr_contents": {
+        "header": "SHOP",
+        "city": null,
+        "validity": null,
+        "expiration": {
+            "date_time": null
+        },
+        "purchase": {
+            "date_time": null
+        },
+        "amounts": {
+            "total_due": "$94.75",
+            "total_paid": "$94.75"
+        },
+        "ticket": {
+            "number": null
+        },
+        "serial_number": null,
+        "setting": null,
+        "machine_name": null,
+        "payment_info": {
+            "card_number": null,
+            "card_type": null
+        },
+        "instructions": {
+            "display": null,
+            "expiration": null
+        },
+        "items": [
+            {
+                "article": "T-Shirt XL",
+                "count": 1,
+                "amount": "$14.95",
+                "tax": "20%"
+            },
+            {
+                "article": "Jeans PDK",
+                "count": 2,
+                "amount": "$39.90",
+                "tax": "20%"
+            }
+        ],
+        "gross": "$75.80",
+        "tax": "$18.95",
+        "sum": "$94.75"
+    },
+    "file_id": "9d3e6964-0174-4c43-8cd9-4a3e08c652df",
+    "processed_at": "2025-11-26T13:36:01Z",
+    "source_path": "/app/source_folder/20.png"
+}

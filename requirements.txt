@@ -1,0 +1,5 @@
+kafka-python        # สำหรับการเชื่อมต่อ Kafka
+watchdog            # สำหรับการมอนิเตอร์ Folder 1
+Pillow              # สำหรับการจัดการรูปภาพ
+requests            # สำหรับการเรียกใช้ Mistral AI API หรือโมเดล
+# ... ไลบรารีอื่นๆ ที่จำเป็นสำหรับ OCR เช่น Tesseract หรือ Client สำหรับ Mistral AI
